@@ -1,0 +1,9 @@
+
+{
+  "name": "Cube-Development-Group-Bot",
+  "version": "1.0.0",
+  "description": "The CDG Bot",
+  "main": "bot.js",
+  "author": "doodthedoodthedood",
+  "dependencies": {}
+}
